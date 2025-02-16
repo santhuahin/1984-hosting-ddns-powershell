@@ -20,7 +20,7 @@ Clone the repo or [Download .zip](https://github.com/santhuahin/1984-hosting-ddn
 
 ## Config Parameters
 
-Update the config parameters inside he.net-ddns.conf.ps1 by editing accordingly. See below for examples.
+Update the config parameters inside 1984-ddns.conf.ps1 by editing accordingly. See below for examples.
 
 | **Option**                | **Example**      | **Description**                                           |
 | ------------------------- | ---------------- | --------------------------------------------------------- |
